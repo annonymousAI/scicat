@@ -52,7 +52,7 @@ Now, let's explore examples of the SciCat charts we've collected!
  <img width="100%" src="./assets/syncat.png"/>
 </p>
 
-**Noisy SynCat (synthetic)**
+**Noisy SynCat (synthetic)** [download link](https://drive.google.com/file/d/1keWQ9wDFrveOsQLbjRO5UhhBnBGnjMZD/view?usp=sharing)
 <p align="center">
  <img width="100%" src="./assets/noisy.png"/>
 </p>
