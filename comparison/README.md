@@ -57,10 +57,6 @@ Now, let's explore examples of the SciCat charts we've collected!
  <img width="100%" src="./assets/noisy.png"/>
 </p>
 
-**Origin (synthetic)**
-<p align="center">
- <img width="100%" src="./assets/origin.png"/>
-</p>
 
 > [!NOTE]
 > SynCat is a synthetic dataset designed to mimic the style of real data while incorporating random stylistic elements.
