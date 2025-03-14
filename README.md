@@ -99,7 +99,7 @@ If you'd like to see examples of CAMP, click [here](https://github.com/annonymou
 
 ### SciCat Benchmark
 <p align="center">
- <img width="100%" src="./assets/realcat_list.png"/>
+ <img width="100%" src="./assets/scicat_bench.png"/>
 </p>
 
 
